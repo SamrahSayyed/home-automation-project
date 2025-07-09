@@ -1,6 +1,6 @@
 #define BLYNK_TEMPLATE_ID           "xxx"
 #define BLYNK_TEMPLATE_NAME         "Quickstart Template"
-#define BLYNK_AUTH_TOKEN            "xxx"
+#define BLYNK_AUTH_TOKEN            "xxx" 
 #define BLYNK_PRINT Serial
 
 #include <RH_ASK.h>
