@@ -4,7 +4,7 @@
 RH_ASK driver;
 
 void setup() {
-  Serial.begin(9600);
+  Serial.begin(9600); 
   if (!driver.init()) {
     Serial.println("Receiver init failed");
   }
