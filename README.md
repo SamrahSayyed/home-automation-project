@@ -27,9 +27,6 @@ The system consists of:
 - Light level detection
 - Wireless RF-based communication
 
-## 🔌 Circuit Diagrams
-> (Add wiring diagrams in the `images/` folder)
-
 ## 🚀 How to Run
 - Upload `transmitter.ino` to ESP8266
 - Upload `receiver.ino` to Arduino
